@@ -1,0 +1,89 @@
+body {
+	background: #DFDCD5;
+	color: black;
+}
+
+header {
+	color: #450B91;
+	font-size: 70px;
+	text-align: center;
+	font-weight: bold;
+	width: 500px;
+	margin-left: 180px;
+}
+
+
+h1 {
+	font-size: 45px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: -220px;
+	font-weight: bold;
+}
+
+.border{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #450B91;
+}
+
+#guessdiv{
+	background: #F3F2F0;
+	padding-top: 0px;
+	margin-top: 80px;
+	margin-left: 240px;
+	width: 200px;
+	height: 170px;
+	text-align: center;
+}
+
+
+#wholescore {
+	margin-left: 300px;
+	margin-top: -270px
+}
+
+#scorediv{
+	background: #F3F2F0;
+	width: 150px;
+	height: 80px;
+	margin-top: 96px;
+	margin-left: 150px;
+	padding-top: .5px;
+	text-align: center;
+	line-height: 5px
+}
+
+#windiv {
+	background: #F3F2F0;
+	padding-top: .5px;
+	margin-top: 5px;
+	margin-left: 150px;
+	line-height: 5px;
+	height: 80px;
+	width: 70px;
+	text-align: center;
+}
+
+#losediv {
+	background: #F3F2F0;
+	padding-top: .5px;
+	margin-left: 230px;
+	margin-top: -84px;
+	line-height: 5px;
+	height: 79px;
+	width: 70px;
+	text-align: center;
+}
+
+#crystals {
+	background: white;
+	height: 150px;
+	width: 450px;
+	margin-top: 40px;
+	margin-left: 185px;
+	padding-top: 35px;
+	padding-left: 25px;
+}
